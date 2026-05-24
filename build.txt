@@ -1,0 +1,8 @@
+displayName = Loadout Preview
+author = SoulMinf
+version = 1.0
+
+hideCode = false
+side = Client
+
+homepage = https://discord.gg/BafguHjhty
